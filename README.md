@@ -1,2 +1,2 @@
 # sudoku-solver
- Sudoku solver using Google OR-Tools 
+Sudoku solver using Google OR-Tools 
